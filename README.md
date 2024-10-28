@@ -15,7 +15,7 @@ Mas cosas de sql,java spring ,jpa y front
 
 ## 📈 Mis estadísticas
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alkeys-github&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alkeys&show_icons=true&theme=radical)
 
 
 ## 🚀 Proyectos destacados
