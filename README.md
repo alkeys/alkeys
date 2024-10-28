@@ -20,7 +20,7 @@ Mas cosas de sql,java spring ,jpa y front
 
 ## 🚀 Proyectos destacados
 
-- [Proyecto 1](https://github.com/alkeys/animated-guacamole): Proyecto con arduino para estacion meteorologica
+- [Estacion Meteorología](https://github.com/alkeys/animated-guacamole): Proyecto con arduino para estacion meteorologica
 Tengo mas pero tengo que buscar xd
 
 ¡Gracias por visitar mi perfil! Si quieres colaborar o simplemente charlar sobre tecnología, ¡no dudes en contactarme!
