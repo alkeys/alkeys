@@ -27,10 +27,9 @@ Soy un estudiante de ingeniería en sistemas apasionado por la tecnología. Me e
 
 ---
 
-<div align="center">
-  <img src="https://i.imgur.com/fakeImageSnakeEating.gif" alt="277 contributions this year" width="300"/>
-  <p><em>277 contributions in the last year 🐍</em></p>
-</div>
+## 🐍 Mis contribuciones
+
+![Snake animation](https://github.com/nombredeusuario/nombredeusuario/blob/output/snake.svg)
 
 
 
