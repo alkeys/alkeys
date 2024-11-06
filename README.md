@@ -27,11 +27,6 @@ Soy un estudiante de ingeniería en sistemas apasionado por la tecnología. Me e
 
 ---
 
-## 🐍 Mis contribuciones
-
-![Snake animation](https://github.com/nombredeusuario/nombredeusuario/blob/output/snake.svg)
-
-
 
 
 ## 🚀 Proyectos destacados
