@@ -21,6 +21,11 @@ Soy un estudiante de ingeniería en sistemas apasionado por la tecnología. Me e
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alkeys&show_icons=true&theme=radical)
 
+## 📅 Mi compromiso a lo largo de los años
+
+![Commit History](https://github-readme-streak-stats.herokuapp.com/?user=alkeys&theme=radical&animation=true)
+
+
 ## 🚀 Proyectos destacados
 
 - [Estación Meteorológica](https://github.com/alkeys/animated-guacamole): Proyecto con Arduino para una estación meteorológica.
