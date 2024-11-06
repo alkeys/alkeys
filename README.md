@@ -25,6 +25,15 @@ Soy un estudiante de ingeniería en sistemas apasionado por la tecnología. Me e
 
 ![Commit History](https://github-readme-streak-stats.herokuapp.com/?user=alkeys&theme=radical&animation=true)
 
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/fakeImageSnakeEating.gif" alt="277 contributions this year" width="300"/>
+  <p><em>277 contributions in the last year 🐍</em></p>
+</div>
+
+
+
 
 ## 🚀 Proyectos destacados
 
