@@ -11,7 +11,7 @@ Soy un estudiante de ingeniería en sistemas apasionado por la tecnología. Me e
 
 ## 🌱 Aprendiendo actualmente
 
-- Más sobre SQL, Java Spring, JPA y desarrollo front-end
+- Más sobre SQL, Java Spring, JPA y desarrollo front-end y Angular xd 
 
 ## 📊 Lenguajes que más utilizo
 
