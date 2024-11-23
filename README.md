@@ -32,6 +32,7 @@ Soy un estudiante de ingeniería en sistemas apasionado por la tecnología. Me e
 ## 🚀 Proyectos destacados
 
 - [Estación Meteorológica](https://github.com/alkeys/animated-guacamole): Proyecto con Arduino para una estación meteorológica.
+- [Proyecto Financiero ](https://github.com/alkeys/fictional-disco): Proyecto con react xd
 - Tengo más proyectos, pero tengo que buscarlos 😄
 
 ¡Gracias por visitar mi perfil! 
