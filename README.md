@@ -56,5 +56,5 @@
 ---
 
 ## ✨ Contacto  
-📧 **Email:** Pronto
+📧 **Email:** gitalkeys49@gmail.com
 💼 **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/alkeys/)  
