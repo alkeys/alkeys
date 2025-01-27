@@ -31,8 +31,8 @@ Soy un estudiante de ingeniería en sistemas apasionado por la tecnología. Me e
 
 ## 🚀 Proyectos destacados
 
--.[Recursos humanos](https://github.com/alkeys/Front-web-rh):Proyecto de react consumiendo api  para recursos humanos.
--.[Api de java](https://github.com/alkeys/Api-Java-rh):Api echa en sprint boot.
+- .[Recursos humanos](https://github.com/alkeys/Front-web-rh):Proyecto de react consumiendo api  para recursos humanos.
+- .[Api de java](https://github.com/alkeys/Api-Java-rh):Api echa en sprint boot.
 - [Estación Meteorológica](https://github.com/alkeys/animated-guacamole): Proyecto con Arduino para una estación meteorológica.
 - [Proyecto Financiero ](https://github.com/alkeys/fictional-disco): Proyecto con react xd
 - Tengo más proyectos, pero tengo que buscarlos 😄
