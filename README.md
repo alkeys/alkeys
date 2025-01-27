@@ -1,6 +1,6 @@
 # ¡Hola, soy Alkeys! 👋  
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-profile-banner.png" alt="Banner Personalizado" style="width:100%; border-radius: 10px;">
+  <img src="https://i.postimg.cc/TwyLnhT2/DALL-E-2025-01-27-09-42-42-A-modern-and-sleek-banner-design-featuring-the-word-Alkeys-in-bold-e.webp" alt="Banner Personalizado" style="width:100%; border-radius: 10px;">
 </div>
 
 ---
