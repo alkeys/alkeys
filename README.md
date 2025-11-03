@@ -19,6 +19,10 @@ Soy **estudiante de Ingeniería en Sistemas** y un entusiasta de la tecnología,
 
 Me manejo en diversos lenguajes y frameworks, y estoy siempre expandiendo mi arsenal.
 
+<details>
+<summary>Ver todas las herramientas que manejo 💡</summary>
+<br/>
+
 <div align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -31,6 +35,7 @@ Me manejo en diversos lenguajes y frameworks, y estoy siempre expandiendo mi ars
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
+</details>
 
 ---
 
@@ -46,11 +51,19 @@ Actualmente, estoy **profundizando mis conocimientos** y explorando el ecosistem
 
 ## 📊 Mi Huella en Código
 
-Aquí puedes ver mis estadísticas y los lenguajes que más utilizo en mis proyectos:
+Aquí puedes ver mis estadísticas, mis lenguajes más usados y mis **trofeos** de GitHub:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alkeys&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" style="border-radius: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkeys&theme=tokyonight&animation=true&hide_border=true" alt="Commit History" style="border-radius: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alkeys&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub" style="border-radius: 10px; margin: 5px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkeys&theme=tokyonight&animation=true&hide_border=true" alt="Racha de Commits" style="border-radius: 10px; margin: 5px;" />
+  
+  ### 🏆 Mis Trofeos de GitHub
+  <img src="https://github-profile-trophy.vercel.app/?username=alkeys&theme=tokyonight&no-frame=true&no-bg=true" alt="Trofeos de GitHub" />
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkeys&layout=compact&theme=tokyonight&hide_border=true" alt="Top Lenguajes" style="border-radius: 10px;" />
 </div>
 
 ---
@@ -76,3 +89,10 @@ Aquí puedes ver mis estadísticas y los lenguajes que más utilizo en mis proye
 | :--- | :--- |
 | 📧 **Correo Electrónico** | gitalkeys49@gmail.com |
 | 💼 **LinkedIn** | [Mi perfil profesional](https://www.linkedin.com/in/alkeys/) |
+
+---
+
+### 💖 Gracias por Visitar
+<div align="center">
+  <img src="https://profile-counter.glitch.me/{alkeys}/count.svg" alt="Contador de visitas al perfil">
+</div>
