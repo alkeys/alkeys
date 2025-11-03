@@ -90,12 +90,4 @@ Aquí puedes ver mis estadísticas, mis lenguajes más usados y mis **trofeos** 
 | 📧 **Correo Electrónico** | gitalkeys49@gmail.com |
 | 💼 **LinkedIn** | [Mi perfil profesional](https://www.linkedin.com/in/alkeys/) |
 
----
 
-### 💖 Gracias por Visitar
----
-
-### 💖 Gracias por Visitar
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=alkeys.alkeys" alt="Contador de visitas">
-</div>
