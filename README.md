@@ -93,6 +93,9 @@ Aquí puedes ver mis estadísticas, mis lenguajes más usados y mis **trofeos** 
 ---
 
 ### 💖 Gracias por Visitar
+---
+
+### 💖 Gracias por Visitar
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{alkeys}/count.svg" alt="Contador de visitas al perfil">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=alkeys.alkeys" alt="Contador de visitas">
 </div>
