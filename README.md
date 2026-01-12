@@ -70,12 +70,11 @@ Aquí puedes ver mis estadísticas, mis lenguajes más usados y mis **trofeos** 
 
 ## 🚀 Mis Proyectos Destacados
 
-Échale un vistazo a algunos de los proyectos en los que he trabajado:
 * [**Portal de Recursos Humanos (Frontend)**](https://github.com/alkeys/Front-web-rh): Un Frontend moderno creado con **React** para gestionar datos de RR.HH.
 * [**API de Java (Backend)**](https://github.com/alkeys/Api-Java-rh): La API que alimenta el Frontend de RR.HH., desarrollada con **Spring Boot**.
 * [**Estación Meteorológica**](https://github.com/alkeys/animated-guacamole): Un proyecto de **Hardware con Arduino** para el monitoreo ambiental.
 * [**Aplicación de Finanzas**](https://github.com/alkeys/fictional-disco): Una aplicación de gestión financiera construida en **React**.
-* [**Sistema de Transporte Santa Ana**](https://github.com/alkeys/traporte-santa-ana): Aplicación web para la **gestión y visualización de rutas de transporte público** en Santa Ana.
+* [**Backend de Transporte Santa Ana**](https://github.com/alkeys/traporte-santa-ana): Backend desarrollado en **Java / Spring Boot** que integra **OSRM** para el cálculo de rutas, distancias y tiempos de viaje, y **WebSocket** para comunicación en tiempo real (ubicación, estados y actualizaciones del transporte).
 
 
 > ¡Siempre hay nuevos proyectos en el horno! 😉
