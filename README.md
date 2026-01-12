@@ -48,23 +48,20 @@ Actualmente, estoy **profundizando mis conocimientos** y explorando el ecosistem
 * **Frontend:** Aprendiendo **Angular** para crear robustas aplicaciones web.
 
 ---
+📊 Mi Huella en Código
 
-## 📊 Mi Huella en Código
+Aquí puedes ver mis estadísticas, mis lenguajes más usados y mis trofeos de GitHub:
 
-Aquí puedes ver mis estadísticas, mis lenguajes más usados y mis **trofeos** de GitHub:
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alkeys&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub" height="170px" style="margin: 5px;" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alkeys&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub" style="border-radius: 10px; margin: 5px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkeys&theme=tokyonight&animation=true&hide_border=true" alt="Racha de Commits" style="border-radius: 10px; margin: 5px;" />
-  
-  ### 🏆 Mis Trofeos de GitHub
-  <img src="https://github-profile-trophy.vercel.app/?username=alkeys&theme=tokyonight&no-frame=true&no-bg=true" alt="Trofeos de GitHub" />
-</div>
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alkeys&theme=tokyonight&hide_border=true" alt="Racha de Commits" height="170px" style="margin: 5px;" /> </div>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkeys&layout=compact&theme=tokyonight&hide_border=true" alt="Top Lenguajes" height="170px" style="margin: 5px;" /> </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkeys&layout=compact&theme=tokyonight&hide_border=true" alt="Top Lenguajes" style="border-radius: 10px;" />
-</div>
+🏆 Mis Trofeos de GitHub
+
+<img src="https://github-profile-trophy.vercel.app/?username=alkeys&theme=tokyonight&no-frame=true&margin-w=15" alt="Trofeos de GitHub" /> </div>
 
 ---
 
