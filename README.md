@@ -52,17 +52,17 @@ Actualmente, estoy **profundizando mis conocimientos** y explorando el ecosistem
 
 Aquí puedes ver mis estadísticas, mis lenguajes más usados y mis trofeos de GitHub:
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alkeys&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub" height="170px" style="margin: 5px;" />
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alkeys&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" height="170" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alkeys&theme=tokyonight&hide_border=true" alt="Racha de Commits" height="170px" style="margin: 5px;" /> </div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alkeys&theme=tokyonight&hide_border=true" alt="Racha de Commits" height="170" /> </div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkeys&layout=compact&theme=tokyonight&hide_border=true" alt="Top Lenguajes" height="170px" style="margin: 5px;" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkeys&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=es" alt="Top Lenguajes" height="170" /> </div>
 
 <div align="center">
+
 🏆 Mis Trofeos de GitHub
 
-<img src="https://github-profile-trophy.vercel.app/?username=alkeys&theme=tokyonight&no-frame=true&margin-w=15" alt="Trofeos de GitHub" /> </div>
-
+<img src="https://github-profile-trophy.vercel.app/?username=alkeys&theme=tokyonight&no-frame=true&column=7" alt="Trofeos de GitHub" /> </div>
 ---
 
 ## 🚀 Mis Proyectos Destacados
