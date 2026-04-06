@@ -64,6 +64,19 @@ Soy un desarrollador enfocado en crear soluciones escalables y eficientes, actua
 
 ---
 
+## 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alkeys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Alkeys" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkeys&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkeys&theme=tokyonight&hide_border=true" alt="Racha de Commits de Alkeys" width="97%" />
+</div>
+
+---
+
 ## 🌱 ¿Qué estoy aprendiendo / perfeccionando?
 
 Mi enfoque actual está en expandir mi dominio del desarrollo empresarial y la programación de alto rendimiento:
