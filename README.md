@@ -1,74 +1,100 @@
-# ¡Hola a todos! Soy Alkeys 👋 ¡Bienvenido(a) a mi rincón digital!
 <div align="center">
-  <img src="https://i.postimg.cc/TwyLnhT2/DALL-E-2025-01-27-09-42-42-A-modern-and-sleek-banner-design-featuring-the-word-Alkeys-in-bold-e.webp" alt="Banner Personalizado de Alkeys" style="width:100%; border-radius: 10px;">
+  <img src="https://i.postimg.cc/TwyLnhT2/DALL-E-2025-01-27-09-42-42-A-modern-and-sleek-banner-design-featuring-the-word-Alkeys-in-bold-e.webp" alt="Banner Personalizado de Alkeys" style="width:100%; max-width: 800px; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+  
+  <br/>
+  
+  # ¡Hola a todos! Soy Alkeys 👋
+  **Estudiante de último año de Ingeniería en Sistemas | Backend Developer | Apasionado por la Arquitectura de Software**
 </div>
 
 ---
 
-## 🚀 Perfil Profesional
+## 👨‍💻 Sobre Mí
 
-Soy **estudiante de Ingeniería en Sistemas**, apasionado por la arquitectura de software y el desarrollo de soluciones escalables. Mi enfoque se centra en el ecosistema de **Java/Spring Boot**, con experiencia integrando tecnologías de tiempo real y optimización de servicios.
+Soy un desarrollador enfocado en crear soluciones escalables y eficientes, actualmente cursando mi **último año de Ingeniería en Sistemas**. Mi especialidad se centra en el ecosistema de **Java/Spring Boot**, pero me apasiona entender la tecnología en todas sus capas: desde la arquitectura en la nube hasta el nivel de hardware y redes.
 
-* 🏗️ **Arquitectura:** Diseño de APIs RESTful y manejo de persistencia avanzada (JPA/Hibernate).
-* 🌐 **Innovación:** Implementación de soluciones con WebSockets y motores de rutas (OSRM).
-* ⚙️ **Calidad:** Comprometido con la escritura de código limpio y la resolución de problemas complejos.
-
----
-
-🛠️ Matriz de Competencias Técnicas
-
-<table align="center" style="border: none;"> <tr> <td align="center" valign="top" width="33%"> <img src="https://img.shields.io/badge/Backend_&_Datos-2E3440?style=for-the-badge" alt="Backend Title"/>
-
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"/> </td> <td align="center" valign="top" width="33%"> <img src="https://img.shields.io/badge/Frontend_&_Frameworks-2E3440?style=for-the-badge" alt="Frontend Title"/>
-
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" alt="Quasar"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> </td> <td align="center" valign="top" width="33%"> <img src="https://img.shields.io/badge/DevOps_&_Tools-2E3440?style=for-the-badge" alt="Tools Title"/>
-
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" alt="WebSockets"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/OSRM-73C476?style=flat-square&logo=openstreetmap&logoColor=white" alt="OSRM"/> </td> </tr> </table>
+* 🏗️ **Arquitectura & Backend:** Diseño de APIs RESTful, transición a **Microservicios** y manejo de persistencia avanzada (JPA/Hibernate).
+* 🌐 **Innovación & Tiempo Real:** Implementación de WebSockets y motores de rutas (OSRM).
+* ⚙️ **Infraestructura & Bajo Nivel:** Conocimientos sólidos en simulación de redes (Cisco Packet Tracer), integración de hardware (Arduino) y programación a bajo nivel (C, Ensamblador).
 
 ---
 
-## 🌱 ¿En qué estoy trabajando ahora?
+## 🛠️ Stack Tecnológico
 
-Actualmente, estoy **profundizando mis conocimientos** y explorando el ecosistema empresarial de Java:
-
-* **Bases de Datos:** Masterizando **SQL** para consultas complejas.
-* **Backend:** Explorando a fondo **Java Spring** y **JPA**.
-* **Frontend:** Aprendiendo **Angular** para crear robustas aplicaciones web.
+<div align="center">
+  <table style="border: none; text-align: center;"> 
+    <tr> 
+      <td valign="top" width="33%"> 
+        <h3>⚙️ Backend & Datos</h3>
+        <br>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> 
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+        <img src="https://img.shields.io/badge/Microservicios-0089D6?style=for-the-badge&logo=spring&logoColor=white" alt="Microservicios"/>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+        <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white" alt="Ensamblador"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> 
+      </td> 
+      <td valign="top" width="33%"> 
+        <h3>🎨 Frontend</h3>
+        <br>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> 
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/> 
+        <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> 
+      </td> 
+      <td valign="top" width="33%"> 
+        <h3>🔧 Infra & Tools</h3>
+        <br>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
+        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> 
+        <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer"/>
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets"/> 
+        <img src="https://img.shields.io/badge/OSRM-73C476?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OSRM"/>
+      </td> 
+    </tr> 
+  </table>
+</div>
 
 ---
 
-## 🚀 Mis Proyectos Destacados
+## 🌱 ¿Qué estoy aprendiendo / perfeccionando?
 
-* [**Backend de Transporte Santa Ana**](https://github.com/alkeys/traporte-santa-ana): Backend desarrollado en **Java / Spring Boot** que integra **OSRM** para el cálculo de rutas, distancias y tiempos de viaje, y **WebSocket** para comunicación en tiempo real (ubicación, estados y actualizaciones del transporte).
-* [**Portal de Recursos Humanos (Frontend)**](https://github.com/alkeys/Front-web-rh): Un Frontend moderno creado con **React** para gestionar datos de RR.HH.
-* [**API de Java (Backend)**](https://github.com/alkeys/Api-Java-rh): La API que alimenta el Frontend de RR.HH., desarrollada con **Spring Boot**.
-* [**Estación Meteorológica**](https://github.com/alkeys/animated-guacamole): Un proyecto de **Hardware con Arduino** para el monitoreo ambiental.
-* [**Aplicación de Finanzas**](https://github.com/alkeys/fictional-disco): Una aplicación de gestión financiera construida en **React**.
+Mi enfoque actual está en expandir mi dominio del desarrollo empresarial y la programación de alto rendimiento:
 
-> ¡Siempre hay nuevos proyectos en el horno! 😉
+* 🏗️ **Arquitectura Distribuida:** Transición de monolitos a **Microservicios** usando el ecosistema de Spring.
+* 📱 **Kotlin:** Adoptando el desarrollo moderno y conciso para complementar mi base en Java.
+* 🦀 **Rust:** Explorando el manejo seguro de memoria y rendimiento para scripts y filtrado de datos complejos.
+* 🗄️ **Bases de Datos & Álgebra Relacional:** Masterizando consultas complejas en **SQL** para optimización de datos.
 
 ---
 
-## ✨ Conéctate Conmigo
+## 🚀 Proyectos Destacados
 
-¿Tienes una idea, quieres colaborar o simplemente charlar de tecnología? ¡No dudes en contactarme!
+* 🚌 [**Backend de Transporte Santa Ana**](https://github.com/alkeys/traporte-santa-ana) <br> Backend en **Java / Spring Boot** que integra **OSRM** para rutas, distancias y tiempos de viaje, sumado a **WebSockets** para telemetría y comunicación en tiempo real del transporte.
+* 👥 [**Portal de Recursos Humanos**](https://github.com/alkeys/Front-web-rh) & [**API Backend**](https://github.com/alkeys/Api-Java-rh) <br> Ecosistema completo para gestión de RR.HH. Interfaz moderna construida con **React** consumiendo una API RESTful desarrollada en **Spring Boot**.
+* 🌦️ [**Estación Meteorológica**](https://github.com/alkeys/animated-guacamole) <br> Integración de hardware y software utilizando **Arduino** para el monitoreo de variables ambientales.
+* 💰 [**Fictional Disco (Finanzas)**](https://github.com/alkeys/fictional-disco) <br> Aplicación web orientada a la gestión financiera personal, desarrollada con **React**.
 
-| Plataforma | Enlace |
-| :--- | :--- |
-| 📧 **Correo Electrónico** | gitalkeys49@gmail.com |
-| 💼 **LinkedIn** | [Mi perfil profesional](https://www.linkedin.com/in/alkeys/) |
+> *¡Siempre codificando algo nuevo! Revisa mis repositorios para ver mis últimos commits.* 😉
+
+---
+
+## 📫 Conéctate Conmigo
+
+¿Tienes una idea genial, buscas colaborar en un proyecto o simplemente quieres hablar de código? ¡Escríbeme!
+
+<div align="center">
+  <a href="mailto:gitalkeys49@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/alkeys/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
