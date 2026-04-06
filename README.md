@@ -5,6 +5,8 @@
   
   # ¡Hola a todos! Soy Alkeys 👋
   **Estudiante de último año de Ingeniería en Sistemas | Backend Developer | Apasionado por la Arquitectura de Software**
+
+  <img src="https://komarev.com/ghpvc/?username=alkeys&label=Vistas+del+perfil&color=0089D6&style=flat" alt="Vistas" />
 </div>
 
 ---
@@ -12,6 +14,10 @@
 ## 👨‍💻 Sobre Mí
 
 Soy un desarrollador enfocado en crear soluciones escalables y eficientes, actualmente cursando mi **último año de Ingeniería en Sistemas**. Mi especialidad se centra en el ecosistema de **Java/Spring Boot**, pero me apasiona entender la tecnología en todas sus capas: desde la arquitectura en la nube hasta el nivel de hardware y redes.
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alkeys&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trofeos de Alkeys" />
+</div>
 
 * 🏗️ **Arquitectura & Backend:** Diseño de APIs RESTful, transición a **Microservicios** y manejo de persistencia avanzada (JPA/Hibernate).
 * 🌐 **Innovación & Tiempo Real:** Implementación de WebSockets y motores de rutas (OSRM).
@@ -36,7 +42,6 @@ Soy un desarrollador enfocado en crear soluciones escalables y eficientes, actua
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
         <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white" alt="Ensamblador"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> 
       </td> 
       <td valign="top" width="33%"> 
         <h3>🎨 Frontend</h3>
@@ -56,7 +61,6 @@ Soy un desarrollador enfocado en crear soluciones escalables y eficientes, actua
         <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer"/>
         <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
         <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets"/> 
-        <img src="https://img.shields.io/badge/OSRM-73C476?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OSRM"/>
       </td> 
     </tr> 
   </table>
@@ -64,44 +68,44 @@ Soy un desarrollador enfocado en crear soluciones escalables y eficientes, actua
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
+## 📊 Estadísticas y Actividad
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alkeys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Alkeys" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkeys&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alkeys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Alkeys" width="80%" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkeys&theme=tokyonight&hide_border=true" alt="Racha de Commits de Alkeys" width="80%" />
 </div>
 
+<br/>
+
+### 🐍 Mi Contribución en Código
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkeys&theme=tokyonight&hide_border=true" alt="Racha de Commits de Alkeys" width="97%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alkeys/alkeys/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alkeys/alkeys/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/alkeys/alkeys/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  </picture>
 </div>
 
 ---
 
 ## 🌱 ¿Qué estoy aprendiendo / perfeccionando?
 
-Mi enfoque actual está en expandir mi dominio del desarrollo empresarial y la programación de alto rendimiento:
-
 * 🏗️ **Arquitectura Distribuida:** Transición de monolitos a **Microservicios** usando el ecosistema de Spring.
 * 📱 **Kotlin:** Adoptando el desarrollo moderno y conciso para complementar mi base en Java.
 * 🦀 **Rust:** Explorando el manejo seguro de memoria y rendimiento para scripts y filtrado de datos complejos.
-* 🗄️ **Bases de Datos & Álgebra Relacional:** Masterizando consultas complejas en **SQL** para optimización de datos.
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-* 🚌 [**Backend de Transporte Santa Ana**](https://github.com/alkeys/traporte-santa-ana) <br> Backend en **Java / Spring Boot** que integra **OSRM** para rutas, distancias y tiempos de viaje, sumado a **WebSockets** para telemetría y comunicación en tiempo real del transporte.
-* 👥 [**Portal de Recursos Humanos**](https://github.com/alkeys/Front-web-rh) & [**API Backend**](https://github.com/alkeys/Api-Java-rh) <br> Ecosistema completo para gestión de RR.HH. Interfaz moderna construida con **React** consumiendo una API RESTful desarrollada en **Spring Boot**.
-* 🌦️ [**Estación Meteorológica**](https://github.com/alkeys/animated-guacamole) <br> Integración de hardware y software utilizando **Arduino** para el monitoreo de variables ambientales.
-* 💰 [**Fictional Disco (Finanzas)**](https://github.com/alkeys/fictional-disco) <br> Aplicación web orientada a la gestión financiera personal, desarrollada con **React**.
-
-> *¡Siempre codificando algo nuevo! Revisa mis repositorios para ver mis últimos commits.* 😉
+* 🚌 [**Backend de Transporte Santa Ana**](https://github.com/alkeys/traporte-santa-ana) <br> Backend en **Java / Spring Boot** que integra **OSRM** para rutas y **WebSockets** para tiempo real.
+* 👥 [**Portal de Recursos Humanos**](https://github.com/alkeys/Front-web-rh) & [**API Backend**](https://github.com/alkeys/Api-Java-rh) <br> Sistema integral de gestión con **React** y **Spring Boot**.
+* 🌦️ [**Estación Meteorológica**](https://github.com/alkeys/animated-guacamole) <br> Monitoreo ambiental con **Arduino**.
 
 ---
 
 ## 📫 Conéctate Conmigo
-
-¿Tienes una idea genial, buscas colaborar en un proyecto o simplemente quieres hablar de código? ¡Escríbeme!
 
 <div align="center">
   <a href="mailto:gitalkeys49@gmail.com">
