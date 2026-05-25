@@ -1,117 +1,139 @@
 <div align="center">
-  <img src="https://i.postimg.cc/TwyLnhT2/DALL-E-2025-01-27-09-42-42-A-modern-and-sleek-banner-design-featuring-the-word-Alkeys-in-bold-e.webp" alt="Banner Personalizado de Alkeys" style="width:100%; max-width: 800px; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
-  
-  <br/>
-  
-  # ¡Hola a todos! Soy Alkeys 👋
-  **Estudiante de último año de Ingeniería en Sistemas | Backend Developer | Apasionado por la Arquitectura de Software**
 
-  <img src="https://komarev.com/ghpvc/?username=alkeys&label=Vistas+del+perfil&color=0089D6&style=flat" alt="Vistas" />
-</div>
+<img src="https://i.postimg.cc/TwyLnhT2/DALL-E-2025-01-27-09-42-42-A-modern-and-sleek-banner-design-featuring-the-word-Alkeys-in-bold-e.webp" alt="Alkeys" style="width:100%; max-width:860px; border-radius:12px;" />
 
----
+<br/><br/>
 
-## 👨‍💻 Sobre Mí
+# 👋 Hola, soy Alex Avilés — **Alkeys**
 
-Soy un desarrollador enfocado en crear soluciones escalables y eficientes, actualmente cursando mi **último año de Ingeniería en Sistemas**. Mi especialidad se centra en el ecosistema de **Java/Spring Boot**, pero me apasiona entender la tecnología en todas sus capas: desde la arquitectura en la nube hasta el nivel de hardware y redes.
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alkeys&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trofeos de Alkeys" />
-</div>
-
-* 🏗️ **Arquitectura & Backend:** Diseño de APIs RESTful, transición a **Microservicios** y manejo de persistencia avanzada (JPA/Hibernate).
-* 🌐 **Innovación & Tiempo Real:** Implementación de WebSockets y motores de rutas (OSRM).
-* ⚙️ **Infraestructura & Bajo Nivel:** Conocimientos sólidos en simulación de redes (Cisco Packet Tracer), integración de hardware (Arduino) y programación a bajo nivel (C, Ensamblador).
-
----
-
-## 🛠️ Stack Tecnológico
-
-<div align="center">
-  <table style="border: none; text-align: center;"> 
-    <tr> 
-      <td valign="top" width="33%"> 
-        <h3>⚙️ Backend & Datos</h3>
-        <br>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> 
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-        <img src="https://img.shields.io/badge/Microservicios-0089D6?style=for-the-badge&logo=spring&logoColor=white" alt="Microservicios"/>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-        <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white" alt="Ensamblador"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-      </td> 
-      <td valign="top" width="33%"> 
-        <h3>🎨 Frontend</h3>
-        <br>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> 
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/> 
-        <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> 
-      </td> 
-      <td valign="top" width="33%"> 
-        <h3>🔧 Infra & Tools</h3>
-        <br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
-        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> 
-        <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer"/>
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets"/> 
-      </td> 
-    </tr> 
-  </table>
-</div>
-
----
-
-## 📊 Estadísticas y Actividad
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alkeys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Alkeys" width="80%" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkeys&theme=tokyonight&hide_border=true" alt="Racha de Commits de Alkeys" width="80%" />
-</div>
+**`Backend Developer · Ingeniería en Sistemas (último año) · El Salvador 🇸🇻`**
 
 <br/>
 
-### 🐍 Mi Contribución en Código
+[![Perfil visto](https://komarev.com/ghpvc/?username=alkeys&style=flat-square&color=1D9E75&label=Visitas+al+perfil)](https://github.com/alkeys)
+[![Disponible](https://img.shields.io/badge/✅_Disponible_para_colaborar-1D9E75?style=flat-square)](mailto:am18007@ues.edu.sv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-aviles-7aa710183/)
+
+</div>
+
+---
+
+## 🧑‍💻 Sobre mí
+
+```text
+🏗️  Backend & APIs      Diseño APIs RESTful con Java/Spring Boot, migrando a microservicios
+🌐  Tiempo real & Rutas  WebSockets + OSRM para sistemas de transporte dinámico
+⚙️  Bajo nivel           Redes (Cisco PT), hardware (Arduino), C y Ensamblador
+📚  Estudiante           Último año de Ingeniería en Sistemas — UES, El Salvador
+```
+
+---
+
+## 🛠️ Stack tecnológico
+
+<div align="center">
+
+### ⚙️ Backend & Datos
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Microservicios](https://img.shields.io/badge/Microservicios-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔧 Infra & Tools
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Proyectos destacados
+
+<div align="center">
+
+| Proyecto | Descripción | Stack |
+|:---:|:---|:---:|
+| 🚌 **[Transporte Santa Ana](https://github.com/alkeys/traporte-santa-ana)** | API de transporte público con rutas dinámicas vía OSRM y actualizaciones en tiempo real con WebSockets | `Java` `Spring Boot` `OSRM` `WS` |
+| 👥 **[Portal RH — Frontend](https://github.com/alkeys/Front-web-rh)** / **[Backend](https://github.com/alkeys/Api-Java-rh)** | Sistema integral de RRHH: interfaz React + API REST robusta en Spring Boot | `React` `Spring Boot` `MySQL` |
+| 🌦️ **[Estación Meteorológica](https://github.com/alkeys/animated-guacamole)** | Monitoreo ambiental en tiempo real con sensores físicos controlados por Arduino | `Arduino` `C` `IoT` |
+
+</div>
+
+---
+
+## 🌱 Aprendiendo ahora
+
+<div align="center">
+
+| 🏗️ Arquitectura distribuida | 📱 Kotlin moderno | 🦀 Rust |
+|:---:|:---:|:---:|
+| Migrando monolitos a microservicios con el ecosistema Spring | Complemento natural y conciso a mi base en Java | Memoria segura y alto rendimiento para sistemas complejos |
+
+</div>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alkeys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Stats de Alkeys" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alkeys&theme=tokyonight&hide_border=true" alt="Racha de Alkeys" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkeys&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" width="49%" />
+
+</div>
+
+---
+
+## 🐍 Mi contribución en código
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alkeys/alkeys/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alkeys/alkeys/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/alkeys/alkeys/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+    <img src="https://raw.githubusercontent.com/alkeys/alkeys/output/github-contribution-grid-snake.svg" alt="Snake de contribuciones" />
   </picture>
 </div>
 
 ---
 
-## 🌱 ¿Qué estoy aprendiendo / perfeccionando?
-
-* 🏗️ **Arquitectura Distribuida:** Transición de monolitos a **Microservicios** usando el ecosistema de Spring.
-* 📱 **Kotlin:** Adoptando el desarrollo moderno y conciso para complementar mi base en Java.
-* 🦀 **Rust:** Explorando el manejo seguro de memoria y rendimiento para scripts y filtrado de datos complejos.
-
----
-
-## 🚀 Proyectos Destacados
-
-* 🚌 [**Backend de Transporte Santa Ana**](https://github.com/alkeys/traporte-santa-ana) <br> Backend en **Java / Spring Boot** que integra **OSRM** para rutas y **WebSockets** para tiempo real.
-* 👥 [**Portal de Recursos Humanos**](https://github.com/alkeys/Front-web-rh) & [**API Backend**](https://github.com/alkeys/Api-Java-rh) <br> Sistema integral de gestión con **React** y **Spring Boot**.
-* 🌦️ [**Estación Meteorológica**](https://github.com/alkeys/animated-guacamole) <br> Monitoreo ambiental con **Arduino**.
-
----
-
-## 📫 Conéctate Conmigo
+## 🏆 Trofeos
 
 <div align="center">
-  <a href="mailto:am18007@ues.edu.sv">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/alex-aviles-7aa710183/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=alkeys&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trofeos de GitHub" />
+</div>
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧_am18007@ues.edu.sv-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:am18007@ues.edu.sv)
+[![LinkedIn](https://img.shields.io/badge/💼_Alex_Avilés-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-aviles-7aa710183/)
+[![GitHub](https://img.shields.io/badge/💻_alkeys-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alkeys)
+
+<br/>
+
+*"El código es poesía — escríbelo con intención."*
+*"Si te quiero es porque sos mi amor, mi cómplice y todo, y en la calle, codo a codo, somos mucho más que dos."*
+
 </div>
