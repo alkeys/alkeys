@@ -134,6 +134,7 @@
 <br/>
 
 *"El código es poesía — escríbelo con intención."*
+<br/>
 *"Si te quiero es porque sos mi amor, mi cómplice y todo, y en la calle, codo a codo, somos mucho más que dos."*
 
 </div>
