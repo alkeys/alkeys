@@ -90,9 +90,9 @@
 
 <div align="center">
 
-| 🏗️ Arquitectura distribuida | 📱 Kotlin moderno | 🦀 Rust |
-|:---:|:---:|:---:|
-| Migrando monolitos a microservicios con el ecosistema Spring | Complemento conciso y natural a mi base en Java | Memoria segura y alto rendimiento para sistemas complejos |
+| 🏗️ Arquitectura distribuida | ⬡ Arquitectura Hexagonal | 📱 Kotlin moderno | 🦀 Rust |
+|:---:|:---:|:---:|:---:|
+| Migrando monolitos a microservicios con el ecosistema Spring | Puertos y adaptadores para un dominio desacoplado y fácil de testear | Complemento conciso y natural a mi base en Java | Memoria segura y alto rendimiento para sistemas complejos |
 
 </div>
 
