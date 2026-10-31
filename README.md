@@ -1,6 +1,6 @@
 
 <!-- ====================================================== -->
-<!--                    ALKEYS PROFILE                      -->
+<!--                     ALKEYS PROFILE                     -->
 <!-- ====================================================== -->
 
 <div align="center">
@@ -8,22 +8,22 @@
   <img
     src="https://i.postimg.cc/TwyLnhT2/DALL-E-2025-01-27-09-42-42-A-modern-and-sleek-banner-design-featuring-the-word-Alkeys-in-bold-e.webp"
     width="100%"
-    alt="Alkeys - Backend Developer"
+    alt="Alkeys - Desarrollador Backend"
   />
 
   <br/>
 
   <a href="https://github.com/alkeys">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1D9E75&center=true&vCenter=true&width=750&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Clean+Architecture+%C2%B7+Hexagonal+Architecture;PostgreSQL+%C2%B7+PostGIS+%C2%B7+REST+APIs;WebSockets+%C2%B7+OSRM+%C2%B7+Real-time+Systems;El+c%C3%B3digo+es+poes%C3%ADa%2C+escr%C3%ADbelo+con+intenci%C3%B3n"
-      alt="Typing SVG"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1D9E75&center=true&vCenter=true&width=750&lines=Desarrollador+Backend+%7C+Java+%26+Spring+Boot;Arquitectura+Limpia+%C2%B7+Arquitectura+Hexagonal;PostgreSQL+%C2%B7+PostGIS+%C2%B7+APIs+REST;WebSockets+%C2%B7+OSRM+%C2%B7+Sistemas+en+Tiempo+Real;El+c%C3%B3digo+es+poes%C3%ADa%2C+escr%C3%ADbelo+con+intenci%C3%B3n"
+      alt="Animación de presentación"
     />
   </a>
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=alkeys&style=for-the-badge&color=1D9E75&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-1D9E75?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Collaboration"/>
+  <img src="https://komarev.com/ghpvc/?username=alkeys&style=for-the-badge&color=1D9E75&label=VISITAS+AL+PERFIL" alt="Visitas al perfil"/>
+  <img src="https://img.shields.io/badge/Disponible-para_colaborar-1D9E75?style=for-the-badge&logo=handshake&logoColor=white" alt="Disponible para colaborar"/>
 
   <br/><br/>
 
@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Alex%20Avil%C3%A9s-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:am18007@ues.edu.sv">
-    <img src="https://img.shields.io/badge/Email-Contact-1D9E75?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Correo-Contactar-1D9E75?style=flat-square&logo=gmail&logoColor=white" alt="Correo"/>
   </a>
 
 </div>
@@ -43,48 +43,48 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mí
+
+Soy estudiante de Ingeniería en Sistemas Informáticos en la Universidad de El Salvador (UES), enfocado en el desarrollo Backend con Java y Spring Boot.
+
+Me apasiona diseñar y desarrollar soluciones de software robustas, escalables y mantenibles, aplicando buenas prácticas de programación y principios de arquitectura de software.
+
+Me interesa especialmente el desarrollo de APIs REST, sistemas distribuidos, bases de datos relacionales y aplicaciones geoespaciales.
 
 ```text
-🏗️ Backend Development   Java, Spring Boot, REST APIs and backend systems
-⬡  Software Architecture Clean Architecture, Hexagonal Architecture and SOLID
-🗄️ Database Engineering  PostgreSQL, PostGIS, MySQL and MongoDB
-🌐 Real-time Systems     WebSockets, STOMP and event-driven communication
-🗺️ Geospatial Systems    PostGIS, OSRM and spatial queries
-📚 Education             Systems Engineering — University of El Salvador 🇸🇻
+🏗️ Backend y APIs       Java, Spring Boot, APIs REST y servicios backend
+⬡  Arquitectura         Clean Architecture, Hexagonal Architecture y SOLID
+🗄️ Bases de datos       PostgreSQL, PostGIS, MySQL y MongoDB
+🌐 Tiempo real          WebSockets, STOMP y comunicación entre servicios
+🗺️ Sistemas geoespaciales PostGIS, OSRM y consultas espaciales
+📚 Formación            Ingeniería en Sistemas Informáticos — UES 🇸🇻
 ```
-
-I'm a Systems Engineering student at the University of El Salvador (UES), focused on Backend Development with Java and Spring Boot.
-
-I enjoy designing and building maintainable software, developing REST APIs, working with relational databases and exploring software architecture.
-
-My main interests include backend engineering, distributed systems, geospatial applications and clean software design.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologías y herramientas
 
 <div align="center">
 
-### Backend Development
+### Backend y desarrollo
 
-<img src="https://skillicons.dev/icons?i=java,spring,kotlin,gradle,maven&theme=dark" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=java,spring,kotlin,gradle,maven&theme=dark" alt="Tecnologías Backend"/>
 
-### Databases & Data Engineering
+### Bases de datos
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Database technologies"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Bases de datos"/>
 
-### Frontend Development
+### Desarrollo frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,astro&theme=dark" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,astro&theme=dark" alt="Tecnologías Frontend"/>
 
-### DevOps & Development Tools
+### DevOps y herramientas
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,idea,vscode&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,idea,vscode&theme=dark" alt="Herramientas de desarrollo"/>
 
-### Embedded Systems
+### Sistemas embebidos
 
-<img src="https://skillicons.dev/icons?i=c,arduino&theme=dark" alt="Embedded technologies"/>
+<img src="https://skillicons.dev/icons?i=c,arduino&theme=dark" alt="Sistemas embebidos"/>
 
 </div>
 
@@ -102,23 +102,23 @@ My main interests include backend engineering, distributed systems, geospatial a
 
 ---
 
-## 🏛️ Software Architecture
+## 🏛️ Arquitectura de software
 
-I focus on building software with clear separation of concerns, maintainability and scalability.
+Me interesa construir aplicaciones aplicando principios y patrones de diseño que faciliten su mantenimiento, evolución y escalabilidad.
 
-| Concept | Description |
+| Concepto | Aplicación |
 |:---|:---|
-| Clean Architecture | Separation of business rules and infrastructure |
-| Hexagonal Architecture | Ports & Adapters and dependency inversion |
-| SOLID Principles | Maintainable object-oriented design |
-| REST API Design | Resource-oriented APIs and HTTP communication |
-| DTO Pattern | Structured data transfer between application layers |
-| Modular Monolith | Independent modules with clear boundaries |
-| Database Design | Relational modeling and geospatial queries |
+| Clean Architecture | Separación de reglas de negocio e infraestructura |
+| Arquitectura Hexagonal | Puertos y adaptadores, inversión de dependencias |
+| Principios SOLID | Diseño orientado a objetos mantenible |
+| Diseño de APIs REST | Recursos, contratos HTTP y comunicación |
+| Patrón DTO | Transferencia estructurada de información |
+| Monolito modular | Módulos independientes y responsabilidades claras |
+| Diseño de bases de datos | Modelado relacional y consultas geoespaciales |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Proyectos destacados
 
 <div align="center">
 
@@ -135,117 +135,113 @@ I focus on building software with clear separation of concerns, maintainability 
 </a>
 
 <a href="https://github.com/alkeys/animated-guacamole">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alkeys&repo=animated-guacamole&theme=transparent&hide_border=true&title_color=1D9E75&icon_color=1D9E75" alt="Weather Station"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alkeys&repo=animated-guacamole&theme=transparent&hide_border=true&title_color=1D9E75&icon_color=1D9E75" alt="Estación Meteorológica"/>
 </a>
 
 </div>
 
 ### 🚌 Transporte Santa Ana
 
-Backend project focused on public transportation and dynamic route management.
+Proyecto enfocado en la gestión del transporte público y el cálculo de rutas dinámicas.
 
-- Dynamic route calculation using OSRM.
-- Real-time communication using WebSockets.
-- Backend development with Java and Spring Boot.
+- Cálculo de rutas mediante OSRM.
+- Comunicación en tiempo real con WebSockets.
+- Desarrollo Backend con Java y Spring Boot.
 
-**Technologies:** Java · Spring Boot · OSRM · WebSockets
+**Tecnologías:** Java · Spring Boot · OSRM · WebSockets
 
-[View repository →](https://github.com/alkeys/traporte-santa-ana)
+[Ver repositorio →](https://github.com/alkeys/traporte-santa-ana)
 
-### 👥 Portal RH
+### 👥 Portal de Recursos Humanos
 
-Human Resources management system with a backend API and frontend application.
+Sistema de gestión de recursos humanos compuesto por una API Backend y una aplicación frontend.
 
-- REST API developed with Spring Boot.
-- React frontend.
-- Relational database integration.
+- API REST desarrollada con Spring Boot.
+- Interfaz de usuario con React.
+- Integración con base de datos relacional.
 
-**Technologies:** Java · Spring Boot · React · MySQL
+**Tecnologías:** Java · Spring Boot · React · MySQL
 
 [Backend →](https://github.com/alkeys/Api-Java-rh) · [Frontend →](https://github.com/alkeys/Front-web-rh)
 
-### 🌦️ Weather Station
+### 🌦️ Estación Meteorológica
 
-Embedded systems project for environmental monitoring.
+Proyecto de sistemas embebidos orientado al monitoreo de condiciones ambientales.
 
-- Physical sensors.
-- Arduino-based monitoring.
-- Data acquisition and processing.
+- Sensores físicos.
+- Monitoreo mediante Arduino.
+- Captura y procesamiento de datos.
 
-**Technologies:** Arduino · C · IoT
+**Tecnologías:** Arduino · C · IoT
 
-[View repository →](https://github.com/alkeys/animated-guacamole)
+[Ver repositorio →](https://github.com/alkeys/animated-guacamole)
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Aprendiendo y profundizando
 
-<div align="center">
-
-| Technology | Focus |
+| Tecnología | Enfoque |
 |:---:|:---|
-| ☕ Java & Spring Boot | Advanced backend development |
-| 🏗️ Distributed Systems | Microservices and service communication |
-| ⬡ Hexagonal Architecture | Domain isolation and maintainability |
-| 🦀 Rust | Systems programming and memory safety |
-| 🐘 PostgreSQL | Advanced database engineering |
-
-</div>
+| ☕ Java y Spring Boot | Desarrollo Backend avanzado |
+| 🏗️ Sistemas distribuidos | Microservicios y comunicación entre servicios |
+| ⬡ Arquitectura Hexagonal | Desacoplamiento del dominio y mantenibilidad |
+| 🦀 Rust | Programación de sistemas y seguridad de memoria |
+| 🐘 PostgreSQL | Administración y consultas avanzadas |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=alkeys&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github&title_color=1D9E75&icon_color=1D9E75&text_color=8b949e" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=alkeys&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github&title_color=1D9E75&icon_color=1D9E75&text_color=8b949e" alt="Estadísticas de GitHub"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkeys&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=1D9E75&text_color=8b949e" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkeys&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=1D9E75&text_color=8b949e" alt="Lenguajes más utilizados"/>
 
 <br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=alkeys&theme=transparent&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=alkeys&theme=transparent&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=8b949e&dates=8b949e" alt="Racha de contribuciones"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Actividad de contribuciones
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alkeys/alkeys/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alkeys/alkeys/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/alkeys/alkeys/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img alt="Animación de la culebrita de contribuciones" src="https://raw.githubusercontent.com/alkeys/alkeys/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contacto
 
 <div align="center">
 
 <a href="mailto:am18007@ues.edu.sv">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Correo-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
 </a>
 
 <a href="https://www.linkedin.com/in/alex-aviles-7aa710183/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/alkeys">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Sígueme-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-**"El código es poesía, escríbelo con intención."**
+**«El código es poesía, escríbelo con intención».**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0B3D32&height=120&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0B3D32&height=120&section=footer" width="100%" alt="Pie de página"/>
 
 </div>
