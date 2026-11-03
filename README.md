@@ -122,6 +122,15 @@ Me interesa construir aplicaciones aplicando principios y patrones de diseño qu
 
 <div align="center">
 
+### 👗👟 [Jubilant Doodle — Arquitectura Hexagonal & Vertical Slice](https://github.com/alkeys/jubilant-doodle-hexagonal)
+
+Sistema integral de gestión para cadena de tiendas de Moda Urbana, Calzado, Sneakers y Accesorios (Catálogo multi-sucursal con tallas, Inventario por tienda, Ventas, Usuarios y Autenticación), construido aplicando **Arquitectura Hexagonal (Ports & Adapters)** organizada en **Vertical Slices** en el backend y **Astro 7 SSR + TailwindCSS 4** (Tema Noble Muse) en el frontend.
+
+<a href="https://github.com/alkeys/jubilant-doodle-hexagonal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alkeys&repo=jubilant-doodle-hexagonal&theme=transparent&hide_border=true&title_color=1D9E75&icon_color=1D9E75" alt="Jubilant Doodle Hexagonal"/>
+</a>
+
+
 <a href="https://github.com/alkeys/traporte-santa-ana">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=alkeys&repo=traporte-santa-ana&theme=transparent&hide_border=true&title_color=1D9E75&icon_color=1D9E75" alt="Transporte Santa Ana"/>
 </a>
